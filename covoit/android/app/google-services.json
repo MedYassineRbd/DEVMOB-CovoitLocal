@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006942032774",
+    "project_id": "devmob-covoitlocal-d6b4b",
+    "storage_bucket": "devmob-covoitlocal-d6b4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006942032774:android:13f61a45a9ec890cedd207",
+        "android_client_info": {
+          "package_name": "com.devmob.covoit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPLn2l5glmiLK125xyolDajkchjQQmrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
