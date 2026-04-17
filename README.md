@@ -1,4 +1,4 @@
-une application mobile de covoiturage local permettant :
+ une application mobile de covoiturage local permettant :
 
 • La mise en relation conducteurs et passagers sur des trajets similaires
 
